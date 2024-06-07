@@ -1,0 +1,47 @@
+body {
+    background-color:rgb(210, 169, 245);
+    font-family: "Roboto Slab", sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+header {
+    text-align: center;
+    font-size: xx-large;
+    border-color: black;
+}
+
+p {
+    background-color:color-mix(in srgb, color percentage, color percentage);
+    padding: auto;
+    margin: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    max-width: 500px;
+    margin: auto;
+}
+
+.button {
+    color: white;
+    background-color: rgb(128, 0, 255);
+    padding: .5em 1em;
+    margin-top: 1em;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+
+
+
+
+    
+
